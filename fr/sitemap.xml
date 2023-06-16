@@ -18,6 +18,16 @@
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/sticker/allyscan_malamute/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/sticker/allyscan_malamute/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/sticker/allyscan_malamute/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/authors/</loc>
     <changefreq>weekly</changefreq>
@@ -34,21 +44,81 @@
   </url><url>
     <loc>http://www.wolfcatbazar.com/tag/autre/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/tag/autre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/tag/autre/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/pins/brat/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/pins/brat/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/pins/brat/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/pins/bear_lover/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/pins/bear_lover/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/pins/bear_lover/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/sticker/bigle/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/sticker/bigle/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/sticker/bigle/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/commander/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/commander/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/commander/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/cgu/tos/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/cgu/tos/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/cgu/tos/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/categories/</loc>
     <changefreq>weekly</changefreq>
@@ -65,51 +135,211 @@
   </url><url>
     <loc>http://www.wolfcatbazar.com/cgu/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/cgu/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/cgu/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/pins/femboa/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/pins/femboa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/pins/femboa/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/sticker/gayhoud/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/sticker/gayhoud/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/sticker/gayhoud/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/pins/go_duck_yourself/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/pins/go_duck_yourself/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/pins/go_duck_yourself/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/project/hydromel/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/project/hydromel/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/project/hydromel/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/pins/im_little_horny/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/pins/im_little_horny/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/pins/im_little_horny/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/project/juice/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/project/juice/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/project/juice/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/sticker/lesbrador/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/sticker/lesbrador/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/sticker/lesbrador/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/pins/nothing_is_opposumble/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/pins/nothing_is_opposumble/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/pins/nothing_is_opposumble/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/sticker/panpillon/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/sticker/panpillon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/sticker/panpillon/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/tag/pins/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/tag/pins/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/tag/pins/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/portfolio/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/portfolio/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/portfolio/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/cgu/price_list/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/cgu/price_list/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/cgu/price_list/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/project/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/project/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/tag/proud_puppies/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/tag/proud_puppies/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/tag/proud_puppies/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/publication_types/</loc>
     <changefreq>weekly</changefreq>
@@ -126,18 +356,68 @@
   </url><url>
     <loc>http://www.wolfcatbazar.com/qa/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/qa/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/qa/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/pins/shibari_blanc/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/pins/shibari_blanc/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/pins/shibari_blanc/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/pins/shibari_noir/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/pins/shibari_noir/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/pins/shibari_noir/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/shop/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/shop/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/shop/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/tag/sticker/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/tag/sticker/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/tag/sticker/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/tags/</loc>
     <changefreq>weekly</changefreq>
@@ -154,8 +434,28 @@
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/sticker/transylvianhound/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/sticker/transylvianhound/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/sticker/transylvianhound/"
+                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/authors/admin/</loc>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/authors/admin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/authors/admin/"
+                />
   </url>
 </urlset>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>autre | Wolfcat&#39;s Bazar</title>
+    <link>http://www.wolfcatbazar.com/en/tag/autre/</link>
+      <atom:link href="http://www.wolfcatbazar.com/en/tag/autre/index.xml" rel="self" type="application/rss+xml" />
+    <description>autre</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://www.wolfcatbazar.com/media/icon_hu59bb6db0605378847ef0b5eaac4a35a6_102483_512x512_fill_lanczos_center_3.png</url>
+      <title>autre</title>
+      <link>http://www.wolfcatbazar.com/en/tag/autre/</link>
+    </image>
+    
+    <item>
+      <title>Hydro-MEL</title>
+      <link>http://www.wolfcatbazar.com/en/project/hydromel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.wolfcatbazar.com/en/project/hydromel/</guid>
+      <description>&lt;p&gt;Projet réalisé dans le cadre de la Perpignan Game Jam 2023, avec pour thème &amp;ldquo;Abandoned Places&amp;rdquo;, et pour contrainte principale jouer avec un contrôleur alternatif.&lt;/p&gt;
+&lt;p&gt;Bob et sa fidèle équipière Laïka plonge dans les profondeurs guidé par leur ordinateur de bord MEL.&lt;/p&gt;
+&lt;p&gt;Pilotez leur sous-marin en utilisant vos joysticks (ou les flèches) pour activer les turbines. Dans le cadre de la Game Jam, nous avons utiliser des ventilateurs d&amp;rsquo;ordinateur en guise de contrôleur, deux joueurs devaient alors souffler pour activer leur turbine respectif.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Juice</title>
+      <link>http://www.wolfcatbazar.com/en/project/juice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.wolfcatbazar.com/en/project/juice/</guid>
+      <description>&lt;p&gt;C&amp;rsquo;est le zbeul, les Dieux ont déchaîné leur colère sur le monde, maintenant englouti par les eaux suite à un violent cataclysme. C&amp;rsquo;est à Noé, à la barre de son arche colossale, de sauver ce qu&amp;rsquo;il reste des habitants de la Terre ! En parcourant les flots capricieux, sauvez un maximum d&amp;rsquo;animaux avant qu&amp;rsquo;ils ne meurrent d&amp;rsquo;hypothermie !&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

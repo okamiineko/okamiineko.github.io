@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>qa | Wolfcat&#39;s Bazar</title>
+    <link>http://www.wolfcatbazar.com/en/qa/</link>
+      <atom:link href="http://www.wolfcatbazar.com/en/qa/index.xml" rel="self" type="application/rss+xml" />
+    <description>qa</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://www.wolfcatbazar.com/media/icon_hu59bb6db0605378847ef0b5eaac4a35a6_102483_512x512_fill_lanczos_center_3.png</url>
+      <title>qa</title>
+      <link>http://www.wolfcatbazar.com/en/qa/</link>
+    </image>
+    
+  </channel>
+</rss>
