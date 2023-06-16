@@ -42,19 +42,6 @@
                 href="http://www.wolfcatbazar.com/authors/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/tag/autre/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wolfcatbazar.com/en/tag/autre/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.wolfcatbazar.com/tag/autre/"
-                />
-  </url><url>
     <loc>http://www.wolfcatbazar.com/products/pins/brat/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -249,6 +236,9 @@
                 hreflang="fr"
                 href="http://www.wolfcatbazar.com/products/pins/nothing_is_opposumble/"
                 />
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/tag/other/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/sticker/panpillon/</loc>
     <changefreq>weekly</changefreq>
