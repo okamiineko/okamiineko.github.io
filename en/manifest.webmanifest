@@ -2,8 +2,8 @@
   "name": "Wolfcat's Bazar",
   "short_name": "Wolfcat's Bazar",
   "lang": "en-us",
-  "theme_color": "rgb(0, 136, 204)",
-  "background_color": "rgb(0, 136, 204)",
+  "theme_color": "PaleVioletRed",
+  "background_color": "PaleVioletRed",
   "icons": [{
     "src": "/media/icon_hu850ecdca1e408d647bf1db56a0023e1c_170107_192x192_fill_lanczos_center_3.png",
     "sizes": "192x192",
