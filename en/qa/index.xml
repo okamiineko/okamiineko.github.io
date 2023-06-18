@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>qa | Wolfcat&#39;s Bazar</title>
+    <title>question time | Wolfcat&#39;s Bazar</title>
     <link>http://www.wolfcatbazar.com/en/qa/</link>
       <atom:link href="http://www.wolfcatbazar.com/en/qa/index.xml" rel="self" type="application/rss+xml" />
-    <description>qa</description>
+    <description>question time</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
     <image>
       <url>http://www.wolfcatbazar.com/media/icon_hu850ecdca1e408d647bf1db56a0023e1c_170107_512x512_fill_lanczos_center_3.png</url>
-      <title>qa</title>
+      <title>question time</title>
       <link>http://www.wolfcatbazar.com/en/qa/</link>
     </image>
     

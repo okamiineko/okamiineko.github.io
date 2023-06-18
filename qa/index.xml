@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Q&amp;A | Wolfcat&#39;s Bazar</title>
+    <title>Questions pour un champion | Wolfcat&#39;s Bazar</title>
     <link>http://www.wolfcatbazar.com/qa/</link>
       <atom:link href="http://www.wolfcatbazar.com/qa/index.xml" rel="self" type="application/rss+xml" />
-    <description>Q&amp;A</description>
+    <description>Questions pour un champion</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language>
     <image>
       <url>http://www.wolfcatbazar.com/media/icon_hu850ecdca1e408d647bf1db56a0023e1c_170107_512x512_fill_lanczos_center_3.png</url>
-      <title>Q&amp;A</title>
+      <title>Questions pour un champion</title>
       <link>http://www.wolfcatbazar.com/qa/</link>
     </image>
     

@@ -42,9 +42,6 @@
                 href="http://www.wolfcatbazar.com/en/authors/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/en/tag/autre/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://www.wolfcatbazar.com/en/products/pins/brat/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -135,6 +132,9 @@
                 hreflang="en"
                 href="http://www.wolfcatbazar.com/en/products/pins/femboa/"
                 />
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/en/tag/gamejam/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.wolfcatbazar.com/en/products/sticker/gayhoud/</loc>
     <changefreq>weekly</changefreq>
