@@ -94,30 +94,43 @@
                 href="http://www.wolfcatbazar.com/en/categories/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/en/cgu/</loc>
+    <loc>http://www.wolfcatbazar.com/en/price_list/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.wolfcatbazar.com/cgu/"
+                href="http://www.wolfcatbazar.com/price_list/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wolfcatbazar.com/en/cgu/"
+                href="http://www.wolfcatbazar.com/en/price_list/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/en/cgu/price_list/</loc>
+    <loc>http://www.wolfcatbazar.com/en/products/pins/custom_furry_pins/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.wolfcatbazar.com/cgu/price_list/"
+                href="http://www.wolfcatbazar.com/products/pins/custom_furry_pins/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wolfcatbazar.com/en/cgu/price_list/"
+                href="http://www.wolfcatbazar.com/en/products/pins/custom_furry_pins/"
+                />
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/en/products/pins/custom_pins/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/pins/custom_pins/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/pins/custom_pins/"
                 />
   </url><url>
     <loc>http://www.wolfcatbazar.com/en/products/pins/femboa/</loc>
@@ -396,17 +409,17 @@
                 href="http://www.wolfcatbazar.com/en/commander/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/en/cgu/tos/</loc>
+    <loc>http://www.wolfcatbazar.com/en/cgu/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.wolfcatbazar.com/cgu/tos/"
+                href="http://www.wolfcatbazar.com/cgu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wolfcatbazar.com/en/cgu/tos/"
+                href="http://www.wolfcatbazar.com/en/cgu/"
                 />
   </url><url>
     <loc>http://www.wolfcatbazar.com/en/tags/</loc>
