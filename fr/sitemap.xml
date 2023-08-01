@@ -211,6 +211,19 @@
                 href="http://www.wolfcatbazar.com/products/pins/go_duck_yourself/"
                 />
   </url><url>
+    <loc>http://www.wolfcatbazar.com/project/2_hopefull_tree/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/project/2_hopefull_tree/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/project/2_hopefull_tree/"
+                />
+  </url><url>
     <loc>http://www.wolfcatbazar.com/project/4_hydromel/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -274,19 +287,6 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://www.wolfcatbazar.com/project/1_juice/"
-                />
-  </url><url>
-    <loc>http://www.wolfcatbazar.com/project/2_hopefull_tree/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wolfcatbazar.com/en/project/2_hopefull_tree/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.wolfcatbazar.com/project/2_hopefull_tree/"
                 />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/sticker/lesbrador/</loc>
