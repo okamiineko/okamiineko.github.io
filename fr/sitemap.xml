@@ -16,6 +16,9 @@
                 href="http://www.wolfcatbazar.com/"
                 />
   </url><url>
+    <loc>http://www.wolfcatbazar.com/project/akatokin/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.wolfcatbazar.com/products/sticker/allyscan_malamute/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -146,6 +149,9 @@
                 href="http://www.wolfcatbazar.com/categories/"
                 />
   </url><url>
+    <loc>http://www.wolfcatbazar.com/project/fbl_2022/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.wolfcatbazar.com/products/pins/femboa/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -185,18 +191,8 @@
                 href="http://www.wolfcatbazar.com/products/pins/go_duck_yourself/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/project/hydromel/</loc>
+    <loc>http://www.wolfcatbazar.com/project/4_hydromel/</loc>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wolfcatbazar.com/en/project/hydromel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.wolfcatbazar.com/project/hydromel/"
-                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/pins/wrecking_ball/</loc>
     <changefreq>weekly</changefreq>
@@ -224,18 +220,14 @@
                 href="http://www.wolfcatbazar.com/products/pins/im_little_horny/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/project/juice/</loc>
+    <loc>http://www.wolfcatbazar.com/project/japanexposud/</loc>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wolfcatbazar.com/en/project/juice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.wolfcatbazar.com/project/juice/"
-                />
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/project/1_juice/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/project/2_hopefull_tree/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/sticker/lesbrador/</loc>
     <changefreq>weekly</changefreq>
@@ -318,6 +310,9 @@
                 href="http://www.wolfcatbazar.com/price_list/"
                 />
   </url><url>
+    <loc>http://www.wolfcatbazar.com/tag/pro/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.wolfcatbazar.com/products/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -382,6 +377,9 @@
                 hreflang="fr"
                 href="http://www.wolfcatbazar.com/qa/"
                 />
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/project/3_reflexion/</loc>
+    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/pins/shibari_blanc/</loc>
     <changefreq>weekly</changefreq>

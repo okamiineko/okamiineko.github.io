@@ -177,16 +177,6 @@
   </url><url>
     <loc>http://www.wolfcatbazar.com/en/project/hydromel/</loc>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.wolfcatbazar.com/project/hydromel/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wolfcatbazar.com/en/project/hydromel/"
-                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/en/products/pins/wrecking_ball/</loc>
     <changefreq>weekly</changefreq>
@@ -216,16 +206,6 @@
   </url><url>
     <loc>http://www.wolfcatbazar.com/en/project/juice/</loc>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.wolfcatbazar.com/project/juice/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wolfcatbazar.com/en/project/juice/"
-                />
   </url><url>
     <loc>http://www.wolfcatbazar.com/en/products/sticker/lesbrador/</loc>
     <changefreq>weekly</changefreq>

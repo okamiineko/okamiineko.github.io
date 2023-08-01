@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects | Wolfcat&#39;s Bazar</title>
-    <link>http://www.wolfcatbazar.com/project/</link>
-      <atom:link href="http://www.wolfcatbazar.com/project/index.xml" rel="self" type="application/rss+xml" />
-    <description>Projects</description>
+    <title>pro | Wolfcat&#39;s Bazar</title>
+    <link>http://www.wolfcatbazar.com/tag/pro/</link>
+      <atom:link href="http://www.wolfcatbazar.com/tag/pro/index.xml" rel="self" type="application/rss+xml" />
+    <description>pro</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>fr</language>
     <image>
       <url>http://www.wolfcatbazar.com/media/icon_hu850ecdca1e408d647bf1db56a0023e1c_170107_512x512_fill_lanczos_center_3.png</url>
-      <title>Projects</title>
-      <link>http://www.wolfcatbazar.com/project/</link>
+      <title>pro</title>
+      <link>http://www.wolfcatbazar.com/tag/pro/</link>
     </image>
     
     <item>
@@ -109,14 +109,6 @@
 &lt;p&gt;Convention Furry Black light 2022 - Paris&lt;/p&gt;
 &lt;hr&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Hydro-MEL</title>
-      <link>http://www.wolfcatbazar.com/project/4_hydromel/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.wolfcatbazar.com/project/4_hydromel/</guid>
-      <description></description>
     </item>
     
     <item>
@@ -257,30 +249,6 @@
 &lt;/div&gt;
 
 </description>
-    </item>
-    
-    <item>
-      <title>Juice</title>
-      <link>http://www.wolfcatbazar.com/project/1_juice/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.wolfcatbazar.com/project/1_juice/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Juice</title>
-      <link>http://www.wolfcatbazar.com/project/2_hopefull_tree/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.wolfcatbazar.com/project/2_hopefull_tree/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Reflexion</title>
-      <link>http://www.wolfcatbazar.com/project/3_reflexion/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://www.wolfcatbazar.com/project/3_reflexion/</guid>
-      <description></description>
     </item>
     
   </channel>
