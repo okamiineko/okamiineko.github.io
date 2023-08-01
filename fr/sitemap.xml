@@ -198,6 +198,19 @@
                 href="http://www.wolfcatbazar.com/project/hydromel/"
                 />
   </url><url>
+    <loc>http://www.wolfcatbazar.com/products/pins/wrecking_ball/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/pins/wrecking_ball/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/pins/wrecking_ball/"
+                />
+  </url><url>
     <loc>http://www.wolfcatbazar.com/products/pins/im_little_horny/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -396,32 +409,6 @@
                 href="http://www.wolfcatbazar.com/products/pins/shibari_noir/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/products/pins/shipie/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wolfcatbazar.com/en/products/pins/shipie/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.wolfcatbazar.com/products/pins/shipie/"
-                />
-  </url><url>
-    <loc>http://www.wolfcatbazar.com/products/pins/wrecking_ball/</loc>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://www.wolfcatbazar.com/en/products/pins/wrecking_ball/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://www.wolfcatbazar.com/products/pins/wrecking_ball/"
-                />
-  </url><url>
     <loc>http://www.wolfcatbazar.com/shop/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -485,6 +472,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://www.wolfcatbazar.com/authors/admin/"
+                />
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/products/pins/shipie/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/pins/shipie/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/pins/shipie/"
                 />
   </url>
 </urlset>
