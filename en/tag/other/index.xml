@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>other | Wolfcat&#39;s Bazar</title>
+    <link>http://www.wolfcatbazar.com/en/tag/other/</link>
+      <atom:link href="http://www.wolfcatbazar.com/en/tag/other/index.xml" rel="self" type="application/rss+xml" />
+    <description>other</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>http://www.wolfcatbazar.com/media/icon_hu850ecdca1e408d647bf1db56a0023e1c_170107_512x512_fill_lanczos_center_3.png</url>
+      <title>other</title>
+      <link>http://www.wolfcatbazar.com/en/tag/other/</link>
+    </image>
+    
+    <item>
+      <title>Hydro-MEL</title>
+      <link>http://www.wolfcatbazar.com/en/project/4_hydromel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.wolfcatbazar.com/en/project/4_hydromel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juice</title>
+      <link>http://www.wolfcatbazar.com/en/project/1_juice/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.wolfcatbazar.com/en/project/1_juice/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Juice</title>
+      <link>http://www.wolfcatbazar.com/en/project/2_hopefull_tree/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.wolfcatbazar.com/en/project/2_hopefull_tree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reflexion</title>
+      <link>http://www.wolfcatbazar.com/en/project/3_reflexion/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://www.wolfcatbazar.com/en/project/3_reflexion/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
