@@ -29,17 +29,17 @@
                 href="http://www.wolfcatbazar.com/project/akatokin/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/products/sticker/allyscan_malamute/</loc>
+    <loc>http://www.wolfcatbazar.com/products/proudpup/allyscan_malamute/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wolfcatbazar.com/en/products/sticker/allyscan_malamute/"
+                href="http://www.wolfcatbazar.com/en/products/proudpup/allyscan_malamute/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.wolfcatbazar.com/products/sticker/allyscan_malamute/"
+                href="http://www.wolfcatbazar.com/products/proudpup/allyscan_malamute/"
                 />
   </url><url>
     <loc>http://www.wolfcatbazar.com/authors/</loc>
@@ -68,56 +68,69 @@
                 href="http://www.wolfcatbazar.com/products/pins/brat/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/products/pins/custom_pins/</loc>
+    <loc>http://www.wolfcatbazar.com/products/custom/rond_custom/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wolfcatbazar.com/en/products/pins/custom_pins/"
+                href="http://www.wolfcatbazar.com/en/products/custom/rond_custom/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.wolfcatbazar.com/products/pins/custom_pins/"
+                href="http://www.wolfcatbazar.com/products/custom/rond_custom/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/products/pins/custom_furry_pins/</loc>
+    <loc>http://www.wolfcatbazar.com/products/custom/coeur_custom/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wolfcatbazar.com/en/products/pins/custom_furry_pins/"
+                href="http://www.wolfcatbazar.com/en/products/custom/coeur_custom/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.wolfcatbazar.com/products/pins/custom_furry_pins/"
+                href="http://www.wolfcatbazar.com/products/custom/coeur_custom/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/products/pins/bear_lover/</loc>
+    <loc>http://www.wolfcatbazar.com/products/mix/bear_lover/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wolfcatbazar.com/en/products/pins/bear_lover/"
+                href="http://www.wolfcatbazar.com/en/products/mix/bear_lover/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.wolfcatbazar.com/products/pins/bear_lover/"
+                href="http://www.wolfcatbazar.com/products/mix/bear_lover/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/products/sticker/bigle/</loc>
+    <loc>http://www.wolfcatbazar.com/products/proudpup/bigle/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wolfcatbazar.com/en/products/sticker/bigle/"
+                href="http://www.wolfcatbazar.com/en/products/proudpup/bigle/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.wolfcatbazar.com/products/sticker/bigle/"
+                href="http://www.wolfcatbazar.com/products/proudpup/bigle/"
+                />
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/tag/bottleopener/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/tag/bottleopener/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/tag/bottleopener/"
                 />
   </url><url>
     <loc>http://www.wolfcatbazar.com/commander/</loc>
@@ -159,6 +172,45 @@
                 href="http://www.wolfcatbazar.com/categories/"
                 />
   </url><url>
+    <loc>http://www.wolfcatbazar.com/products/vracstickers/chupa-gloups/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/vracstickers/chupa-gloups/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/vracstickers/chupa-gloups/"
+                />
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/tag/custom/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/tag/custom/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/tag/custom/"
+                />
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/products/mix/dragon/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/mix/dragon/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/mix/dragon/"
+                />
+  </url><url>
     <loc>http://www.wolfcatbazar.com/project/fbl_2022/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -185,17 +237,17 @@
                 href="http://www.wolfcatbazar.com/products/pins/femboa/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/products/sticker/gayhoud/</loc>
+    <loc>http://www.wolfcatbazar.com/products/proudpup/gayhoud/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wolfcatbazar.com/en/products/sticker/gayhoud/"
+                href="http://www.wolfcatbazar.com/en/products/proudpup/gayhoud/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.wolfcatbazar.com/products/sticker/gayhoud/"
+                href="http://www.wolfcatbazar.com/products/proudpup/gayhoud/"
                 />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/pins/go_duck_yourself/</loc>
@@ -209,6 +261,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://www.wolfcatbazar.com/products/pins/go_duck_yourself/"
+                />
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/products/pins/puppy/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/pins/puppy/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/pins/puppy/"
                 />
   </url><url>
     <loc>http://www.wolfcatbazar.com/project/2_hopefull_tree/</loc>
@@ -250,6 +315,32 @@
                 href="http://www.wolfcatbazar.com/products/pins/wrecking_ball/"
                 />
   </url><url>
+    <loc>http://www.wolfcatbazar.com/products/vracstickers/idontfuckingcarebare/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/vracstickers/idontfuckingcarebare/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/vracstickers/idontfuckingcarebare/"
+                />
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/products/vracstickers/imjustbitch/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/vracstickers/imjustbitch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/vracstickers/imjustbitch/"
+                />
+  </url><url>
     <loc>http://www.wolfcatbazar.com/products/pins/im_little_horny/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -261,6 +352,19 @@
                 rel="alternate"
                 hreflang="fr"
                 href="http://www.wolfcatbazar.com/products/pins/im_little_horny/"
+                />
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/products/vracstickers/imtrashed/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/vracstickers/imtrashed/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/vracstickers/imtrashed/"
                 />
   </url><url>
     <loc>http://www.wolfcatbazar.com/project/japanexposud/</loc>
@@ -289,17 +393,30 @@
                 href="http://www.wolfcatbazar.com/project/1_juice/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/products/sticker/lesbrador/</loc>
+    <loc>http://www.wolfcatbazar.com/products/proudpup/lesbrador/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wolfcatbazar.com/en/products/sticker/lesbrador/"
+                href="http://www.wolfcatbazar.com/en/products/proudpup/lesbrador/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.wolfcatbazar.com/products/sticker/lesbrador/"
+                href="http://www.wolfcatbazar.com/products/proudpup/lesbrador/"
+                />
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/tag/magnet/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/tag/magnet/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/tag/magnet/"
                 />
   </url><url>
     <loc>http://www.wolfcatbazar.com/products/pins/nothing_is_opposumble/</loc>
@@ -328,17 +445,30 @@
                 href="http://www.wolfcatbazar.com/tag/other/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/products/sticker/panpillon/</loc>
+    <loc>http://www.wolfcatbazar.com/products/proudpup/panpillon/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wolfcatbazar.com/en/products/sticker/panpillon/"
+                href="http://www.wolfcatbazar.com/en/products/proudpup/panpillon/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.wolfcatbazar.com/products/sticker/panpillon/"
+                href="http://www.wolfcatbazar.com/products/proudpup/panpillon/"
+                />
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/products/pins/paws/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/pins/paws/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/pins/paws/"
                 />
   </url><url>
     <loc>http://www.wolfcatbazar.com/tag/pins/</loc>
@@ -419,17 +549,17 @@
                 href="http://www.wolfcatbazar.com/project/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/tag/proud_puppies/</loc>
+    <loc>http://www.wolfcatbazar.com/tag/proudpup/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wolfcatbazar.com/en/tag/proud_puppies/"
+                href="http://www.wolfcatbazar.com/en/tag/proudpup/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.wolfcatbazar.com/tag/proud_puppies/"
+                href="http://www.wolfcatbazar.com/tag/proudpup/"
                 />
   </url><url>
     <loc>http://www.wolfcatbazar.com/publication_types/</loc>
@@ -497,6 +627,19 @@
                 href="http://www.wolfcatbazar.com/products/pins/shibari_noir/"
                 />
   </url><url>
+    <loc>http://www.wolfcatbazar.com/products/pins/shipielivre/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/pins/shipielivre/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/pins/shipielivre/"
+                />
+  </url><url>
     <loc>http://www.wolfcatbazar.com/shop/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
@@ -510,17 +653,17 @@
                 href="http://www.wolfcatbazar.com/shop/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/tag/sticker/</loc>
+    <loc>http://www.wolfcatbazar.com/products/vracstickers/suckme/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wolfcatbazar.com/en/tag/sticker/"
+                href="http://www.wolfcatbazar.com/en/products/vracstickers/suckme/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.wolfcatbazar.com/tag/sticker/"
+                href="http://www.wolfcatbazar.com/products/vracstickers/suckme/"
                 />
   </url><url>
     <loc>http://www.wolfcatbazar.com/tags/</loc>
@@ -536,17 +679,43 @@
                 href="http://www.wolfcatbazar.com/tags/"
                 />
   </url><url>
-    <loc>http://www.wolfcatbazar.com/products/sticker/transylvianhound/</loc>
+    <loc>http://www.wolfcatbazar.com/products/pins/tentacle/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://www.wolfcatbazar.com/en/products/sticker/transylvianhound/"
+                href="http://www.wolfcatbazar.com/en/products/pins/tentacle/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://www.wolfcatbazar.com/products/sticker/transylvianhound/"
+                href="http://www.wolfcatbazar.com/products/pins/tentacle/"
+                />
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/products/proudpup/transylvianhound/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/products/proudpup/transylvianhound/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/products/proudpup/transylvianhound/"
+                />
+  </url><url>
+    <loc>http://www.wolfcatbazar.com/tag/vracstickers/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://www.wolfcatbazar.com/en/tag/vracstickers/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://www.wolfcatbazar.com/tag/vracstickers/"
                 />
   </url><url>
     <loc>http://www.wolfcatbazar.com/authors/admin/</loc>
